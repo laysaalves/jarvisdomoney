@@ -5,7 +5,7 @@ export default function LoadingState() {
     <tr>
       <td colSpan={7} className="px-4 py-8 text-center">
         <div className="flex justify-center items-center">
-          <RefreshCw className="w-6 h-6 animate-spin text-[#789d13] mr-2" />
+          <RefreshCw className="w-6 h-6 animate-spin text-[#8f9396] mr-2" />
           <span>Carregando...</span>
         </div>
       </td>

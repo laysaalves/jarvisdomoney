@@ -48,11 +48,6 @@ export default function ActivityTable() {
   return (
     <div className="flex justify-center items-center min-h-screen bg-[#28323c] p-4">
       <div className="bg-white rounded-xl shadow-md w-full max-w-6xl p-6">
-        <div className="flex flex-wrap gap-2 mb-6">
-          <button className="px-4 py-2 rounded-full text-sm font-medium bg-[#789d13] text-white">
-            MOVIMENTAÇÕES
-          </button>
-        </div>
 
         <div className="overflow-x-auto rounded-xl border border-gray-200">
           <table className="min-w-full divide-y divide-gray-200">
